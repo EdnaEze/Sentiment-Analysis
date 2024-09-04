@@ -6,7 +6,7 @@ Information gathered from sentiment analyses can be employed to make better deci
 To evaluate the sentiment of the text in this project
 - A Trip advisor hotels review dataset is utilized.
 - The reviews in the dataset are numbered 1 - 5, with 1 implying dissatifaction and 5 highly satisfied. These reviews are further grouped into Negative, Neutral and Positive for easy assesment.
-- A variation of of the transformer model BERT called DistilBert is used to analyze the sentiment of the reviews.
+- A variant of of the transformer model BERT called DistilBERT is used to analyze the sentiment of the reviews.
 - Performance metrics are used to evaluate the performance of the model.
 
 # Dataset
